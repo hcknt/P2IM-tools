@@ -38,6 +38,10 @@ Reset fuzzing environment while preserving essential files.
 - Scripts (`run_fw.py`)
 - Core dump files (`core.*`)
 
+### hexdump.sh
+
+Combines the `hexdump -C` outputs of all AFL-generated crash case files into a single text file.
+
 ## Requirements / Notes
 
 - The default `REPO_PATH` is set to `/opt/p2im`, so make sure to update it according to your environment before running.
