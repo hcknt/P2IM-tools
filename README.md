@@ -1,6 +1,6 @@
 # P2IM Tools
 
-Enhanced tools for P2IM (Peripheral Interface Modeling) firmware fuzzing automation.
+Enhanced tools for [P2IM](github.com/RiS3-Lab/p2im) (Peripheral Interface Modeling) firmware fuzzing automation.
 
 ## Files
 
